@@ -7,21 +7,21 @@ backend/django_project/__pycache__/
 
 ### Nodejs ###
 # dependencies
-frontend/node_modules
-frontend/.pnp
-frontend/.pnp.js
+frontend/react_project/node_modules
+frontend/react_project/.pnp
+frontend/react_project/.pnp.js
 # testing
-frontend/coverage
+frontend/react_project/coverage
 # production
-frontend/build
+frontend/react_project/build
 # misc
-frontend/.DS_Store
-frontend/.env.local
-frontend/.env.development.local
-frontend/.env.test.local
-frontend/.env.production.local
+frontend/react_project/.DS_Store
+frontend/react_project/.env.local
+frontend/react_project/.env.development.local
+frontend/react_project/.env.test.local
+frontend/react_project/.env.production.local
 # log
-frontend/npm-debug.log*
-frontend/yarn-debug.log*
-frontend/yarn-error.log*
+frontend/react_project/npm-debug.log*
+frontend/react_project/yarn-debug.log*
+frontend/react_project/yarn-error.log*
 
