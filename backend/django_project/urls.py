@@ -23,7 +23,7 @@ urlpatterns = [
     # django admin route
     path("admin/", admin.site.urls),
     # django rest framework route
-    path("api-auth/", include("rest_framework.urls"),
+    path("api-auth/", include("rest_framework.urls")),
 ]
 
 # any other routes will be treated by React
