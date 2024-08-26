@@ -4,25 +4,10 @@ backend/venv/
 # django
 backend/db.sqlite3
 backend/django_project/__pycache__/
-backend/build
 
 ### Nodejs ###
 # dependencies
 frontend/react_project/node_modules
-frontend/react_project/.pnp
-frontend/react_project/.pnp.js
-# testing
-frontend/react_project/coverage
-# production
-frontend/react_project/build
-# misc
-frontend/react_project/.DS_Store
-frontend/react_project/.env.local
-frontend/react_project/.env.development.local
-frontend/react_project/.env.test.local
-frontend/react_project/.env.production.local
-# log
-frontend/react_project/npm-debug.log*
-frontend/react_project/yarn-debug.log*
-frontend/react_project/yarn-error.log*
+# react build production
+backend/build
 
