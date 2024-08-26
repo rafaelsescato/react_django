@@ -1,0 +1,14 @@
+argcomplete==3.4.0
+asgiref==3.8.1
+click==8.1.7
+Django==5.0.7
+hererocks==0.25.1
+nodeenv==1.9.1
+packaging==24.1
+pipx==1.6.0
+platformdirs==4.2.2
+pyright==1.1.372
+sqlparse==0.5.1
+tomli==2.0.1
+typing_extensions==4.12.2
+userpath==1.9.2
